@@ -1,1 +1,4 @@
-This is first feature of our application.
+This is first feature of our application
+
+added new feature to our application
+.
